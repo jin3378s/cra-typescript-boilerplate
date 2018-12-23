@@ -1,0 +1,1 @@
+export const INTIAIL_ACTION :string = "INITIAL_ACTION"
